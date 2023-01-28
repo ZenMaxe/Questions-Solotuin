@@ -1,2 +1,2 @@
-# Questions-Solotuin
+# Questions-solution
 Quera &amp; Leetcode Solution
